@@ -1,8 +1,10 @@
-# Hi 👋 My name is Ahad Hamirani
+Hi 👋 My name is Ahad Hamirani
+==============================
 
 I am a 4th-year computer science student currently studying at the University of Calgary. My areas of interest are in computer networks, distributed systems and web development. I am currently looking for research and internship opportunities for Fall 2022.  
 
 * ✉️  You can contact me at [ahadameen@hotmail.com](mailto:ahadameen@hotmail.com)
+* 🖥️  See my portfolio at [ahadhamirani.com](http://ahadhamirani.com)
 
 ### Skills
 
