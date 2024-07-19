@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahad Hamirani
 ==============================
 
-I am a 4th-year computer science student studying at the University of Calgary. I am currently working as a Junior Software Developer @ Convverge and as a Frontend Engineer @ LeapGrad. My areas of interest are in computer networks, distributed systems and web development.
+I am a Computer Sciene Graduate who is working as a Software Developer @ Convverge. My areas of interest are in computer networks, distributed systems and web development.
 
 * ✉️  You can contact me at [ahadameen@hotmail.com](mailto:ahadameen@hotmail.com)
 * 🖥️  See my portfolio at [ahadhamirani.com](http://ahadhamirani.com)
